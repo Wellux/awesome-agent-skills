@@ -1,0 +1,45 @@
+name: New pick
+description: Suggest a repo for Awesome Agent Skills
+title: "Pick: "
+labels: ["new pick"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repository link
+      placeholder: https://github.com/owner/name
+    validations:
+      required: true
+  - type: input
+    id: job
+    attributes:
+      label: The one job it does
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Skill libraries
+        - Skill tooling
+        - Skills for software work
+        - Subagents and roles
+        - Rules and context
+        - Prompts and system prompts
+        - I am not sure
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Rules
+      options:
+        - label: Public repo with a clear license
+          required: true
+        - label: Works today, maintained or a finished classic
+          required: true
