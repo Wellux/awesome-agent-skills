@@ -218,6 +218,7 @@ Platform and task skills for developers.
 
 ### Quality, review and ops
 
+- **[agent-qa](https://github.com/vostride/agent-qa)** · Official skills for authoring web/mobile tests, triaging results, debugging failures and inspecting persistent memidex knowledge (FSL-1.1-ALv2); [product](https://vostride.com).
 - **[simplify-codebase](https://github.com/tt-a1i/simplify-codebase)** `★ 509` · Agent skill that proves and removes accidental codebase complexity without changing behavior.
 - **[dispatch](https://github.com/bassimeledath/dispatch)** `★ 414` · Claude Code skill that stretches the context window by sending tasks to background AI workers.
 - **[relay](https://github.com/Forward-Future/relay)** `★ 229` · Skill that routes work through planning, execution and review to optimize cost.
