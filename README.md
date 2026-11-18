@@ -163,6 +163,8 @@ The big shelves of official and community skills.
 - **[karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills)** `★ 601` · Curated collection of 50+ verified skills for Claude Code, Claude.ai and the API.
 - **[awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)** `★ 595` · Curated list of instructions, prompts, skills, MCPs and agent files for GitHub Copilot.
 
+- **[oppi-digital-products](https://github.com/Reggiebro/oppi-digital-products)** · Agent-commerce skill plus MCP server: agents browse a freelancer prompt/CRM catalog, test free prompt samples, and payments are verified on-chain before public GitHub-issue delivery.
+
 <sub><a href="#contents">back to contents</a></sub>
 
 ## Skill tooling
